@@ -32,9 +32,28 @@ Bachelor Thesis Project
 
 ---
 
-## Project Demonstration ← VIDEO
+## Project Demonstration
 
-[![Modular chessboard Demo](images/demo_thumbnail.png)](https://www.youtube.com/watch?v=xy6fE5UnNOM)
+The following video demonstrates the Smart Chessboard prototype in operation.
+
+During the demonstration:
+
+1. A player moves physical chess pieces on the **RFID-enabled board**.
+2. Each piece contains an **RFID tag with a unique UID**.
+3. The **RFID reader connected to the Arduino** detects when a piece is lifted or placed on a square.
+4. The Arduino sends the piece UID and board position to the **Python software via serial communication**.
+5. The Python program processes the data and updates the **graphical chessboard interface in real time**.
+6. The GUI highlights piece positions and maintains the current game state.
+
+This demonstrates the integration between:
+
+* Physical hardware (RFID chessboard)
+* Embedded system (Arduino)
+* Software system (Python game engine and GUI)
+
+Watch the demo:
+
+[Smart Chessboard Demonstration](https://www.youtube.com/watch?v=xy6fE5UnNOM)
 
 ---
 
