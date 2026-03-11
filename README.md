@@ -34,7 +34,7 @@ Bachelor Thesis Project
 
 ## Project Demonstration
 
-[![Smart Chessboard Demo](images/demo_thumbnail.png)](https://www.youtube.com/watch?v=xy6fE5UnNOM)
+[![Modular chessboard Demo](images/demo_thumbnail.png)](https://www.youtube.com/watch?v=xy6fE5UnNOM)
 
 ---
 
